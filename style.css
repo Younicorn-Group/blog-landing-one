@@ -1,0 +1,17 @@
+/* Reset */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Reset */
+/* Main */
+.main{
+    padding: 90px;
+}
+.main-content, .blog{
+    padding: 60px 90px;
+}
+.blog-left{
+    overflow: scroll;
+}
+/* Main */
